@@ -1,5 +1,5 @@
 # Hexonwall
 
-The Sixth Generation Firewall.
+Hexonwall - The Sixth Generation Firewall.
 
 
