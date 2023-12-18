@@ -7,7 +7,7 @@ Hexonwall - The Sixth Generation Firewall
 System Architecture Description
 
 ### Programming Language
-Assembly C C++ Lua Python
+C C++ Java
 
 ## Installation
 
